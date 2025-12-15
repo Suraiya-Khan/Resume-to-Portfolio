@@ -17,6 +17,7 @@ This app leverages cutting-edge Large Language Models (LLMs) to parse resumes, e
 - Streamlit – Frontend for portfolio visualization
 - LangChain – Orchestration of LLM workflows
 - Gemini LLM – AI-powered text extraction and transformation
+  
 📌 Use Cases
 - Job seekers creating instant portfolios from resumes
 - Students showcasing academic projects and internships
